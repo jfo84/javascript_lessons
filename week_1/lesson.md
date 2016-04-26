@@ -54,10 +54,7 @@
 - Special values: null, undefined, NaN
   - Sometimes you want to return nothing, null and undefined are very close to the concept of nothing
   - NaN occurs when a mathematical calculation doesn't return a real number
-
-  ```
-  console.log( 1 / 0 )
-  ```
+    - Not worth worrying about
 
 ### Logic
 - Already showed 'or' up there (||)
