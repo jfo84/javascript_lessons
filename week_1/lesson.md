@@ -41,8 +41,11 @@
 - The first thing you have to do in any programming language is decide what your data types will be
   - You're taking those ones and zeroes and turning that into concepts that people can understand, so that they can write things
 - We're going to run some code now
-  - Copy and paste the first console.log expression below into script.js
-  -
+  - Copy and paste the first console.log expressions below into script.js (first one is done for you!!)
+  - Right click on main.html and press 'Copy Full Path'
+  - Paste the full path into a Google Chrome tab and press enter
+  - It will look like nothing happened. Right click anywhere and click 'Inspect'
+  - The results of the code should be displayed in the inspector
 - Strings, booleans, integers
 
   ```
